@@ -2,9 +2,9 @@
 
 This is sample of Single Page Application for managing movies list.
 
-<a href="https://yegor-sytnyk.github.io/movies-list/"><img src="https://user-images.githubusercontent.com/6594754/214563649-b6473480-4386-4ad4-95a1-247fec9b4832.png"/></a>
+<a href="https://orbios-movies-list.netlify.app/"><img src="https://user-images.githubusercontent.com/6594754/214563649-b6473480-4386-4ad4-95a1-247fec9b4832.png"/></a>
 
-Demo available here: [https://yegor-sytnyk.github.io/movies-list/](https://yegor-sytnyk.github.io/movies-list/).
+Demo available here: [https://orbios-movies-list.netlify.app/](https://orbios-movies-list.netlify.app/).
 
 It features managing collection of movies with search, sorting and pagination. You can add/edit/delete movies, there is client side validation and toast messages.
 
