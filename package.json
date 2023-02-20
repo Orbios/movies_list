@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "start": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "format": "prettier \"src/**/*.{js,json,css,ts,tsx}\" --write"
